@@ -1,6 +1,6 @@
 # Byczax
 
-*[Computer Science](https://cs.pwr.edu.pl/index.php?lang=eng) student at [WUST](https://pwr.edu.pl/en/)*
+*[Computer Science](https://weka.pwr.edu.pl/) student at [WUST](https://pwr.edu.pl/en/)*
 
 <!-- --- -->
 
