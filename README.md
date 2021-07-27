@@ -27,7 +27,7 @@
 
 ---
 <p align="center">
-  <img width="300" src=https://user-images.githubusercontent.com/61631855/127154781-6381f08b-85e9-4bf9-b219-af23ef3029cd.gif>
+  <img width="300" src=https://user-images.githubusercontent.com/61631855/127160447-53898f79-5269-4814-b9d2-c7b7f4a71646.gif>
 <!-- ![chest](https://user-images.githubusercontent.com/61631855/127154781-6381f08b-85e9-4bf9-b219-af23ef3029cd.gif) -->
 </p>
 
