@@ -26,3 +26,8 @@
 <!-- [<img align=center alt="WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=byczax&layout=compact&theme=dark&hide_border=true"/>](https://wakatime.com/@Byczax) -->
 
 ---
+<p align="center">
+  <img width="300" src=https://user-images.githubusercontent.com/61631855/127154781-6381f08b-85e9-4bf9-b219-af23ef3029cd.gif>
+<!-- ![chest](https://user-images.githubusercontent.com/61631855/127154781-6381f08b-85e9-4bf9-b219-af23ef3029cd.gif) -->
+</p>
+
