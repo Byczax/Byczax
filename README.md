@@ -2,6 +2,10 @@
 
 *[Computer Science](https://weka.pwr.edu.pl/) student at [WUST](https://pwr.edu.pl/en/)*
 
+*I like learning new stuff, it doesn't have to be related with IT*
+
+
+<sup>*yes, this pixel art was done by me*</sup>
 <!-- --- -->
 
 <!-- ## I’m on
