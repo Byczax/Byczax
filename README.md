@@ -38,3 +38,5 @@ _I like learning new stuff, it doesn't have to be related with IT_
 <p align="center">
   <img width="300" src=https://user-images.githubusercontent.com/61631855/127160447-53898f79-5269-4814-b9d2-c7b7f4a71646.gif>
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=61631855)
